@@ -1,0 +1,41 @@
+.borderLayout{
+    border: 2px solid grey;
+}
+.borderBottom{
+    border-bottom: 2px solid grey; ;
+}
+.borderRight{
+    border-right: 2px solid grey; ;
+}
+.inputStyle{
+    border:none;
+    width: 90%;
+    padding: 2%;
+}
+.inputStyle:focus{
+    outline: 0;
+}
+.error{
+    color: red;
+}
+.textColor{
+    color: red;
+}
+.marginLeft{
+    margin-left: 3%;
+}
+.innerdivLayout{
+    display :flex;
+    justify-content: space-between;
+}
+.contentMargin{
+    margin: 5%;
+}
+.headingContent{
+    margin-bottom: -9%;
+}
+.headerStyle{
+    padding-left: 3% ;
+    background-color: "#43a2b2";
+    color: "#fff";
+}
